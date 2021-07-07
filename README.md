@@ -14,7 +14,7 @@ This is the flutter application. It implements the UI of the online video and so
 
 ## GIF
 
-<img src="h(https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube.gif"  height="550">
+<img src="https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube.gif"  height="550">
 
 ## Picture
 
