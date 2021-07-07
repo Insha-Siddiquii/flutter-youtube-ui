@@ -18,7 +18,7 @@ This is the flutter application. It implements the UI of the online video and so
 
 ## Picture
 
-![flutter-youtube-ui](https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube_ss.png)
+![flutter-youtube-ui](https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube_ss.png height="400")
 
 ## Next Release
 
