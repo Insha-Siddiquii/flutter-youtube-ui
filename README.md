@@ -14,13 +14,11 @@ This is the flutter application. It implements the UI of the online video and so
 
 ## GIF
 
-<
-
-![flutter-youtube-ui](https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube.gif | height=350)
+<img src="h(https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube.gif"  height="550">
 
 ## Picture
 
-<img src="https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube_ss.png" width="300" height="300">
+<img src="https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube_ss.png"  height="550">
 
 ## Next Release
 
