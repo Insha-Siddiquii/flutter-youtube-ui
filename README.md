@@ -12,7 +12,6 @@ This is the flutter application. It implements the UI of the online video and so
 
 ## How it looks
 
-Check it out!
 ![flutter-youtube-ui](https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube.gif)
 
 ## Next Release
