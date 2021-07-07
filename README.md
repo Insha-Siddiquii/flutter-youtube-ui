@@ -12,7 +12,13 @@ This is the flutter application. It implements the UI of the online video and so
 
 ## How it looks
 
+## GIF
+
 ![flutter-youtube-ui](https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube.gif)
+
+## Picture
+
+![flutter-youtube-ui](https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube_ss.png)
 
 ## Next Release
 
